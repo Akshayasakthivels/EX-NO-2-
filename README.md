@@ -177,8 +177,6 @@ int main() {
 }
 ```
 
-
-
-
 Output:
+ 
 ![image](https://github.com/user-attachments/assets/6841cc41-ca8e-49d8-8a65-c012913596a3)
